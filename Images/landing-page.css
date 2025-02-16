@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    font-family: Lato,sans-serif;
+
+    border: border-box;
+}
+
+.mmt-header{
+    
+}
+
+.nav-logo{
+    width: 122px;
+    height: 38px;
+}
+.logo{
+    background-image: url(Images/mmt-logo.avif);
+    background-size: cover;
+
+    height: 38px;
+    width: 122px;
+
+}
